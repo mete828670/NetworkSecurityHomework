@@ -1,0 +1,12 @@
+site_name: Güncel Ağ Güvenliği Sorunları ve Çözümleri
+theme:
+  name: material
+nav:
+  - DDoS: ddos.md
+  - EDoS: edos.md
+  - Advanced Persistent Threat: apt.md
+  - Cloud Jacking: cloud_jacking.md
+  - Lateral Movement: lateral_movement.md
+  - Data Loss: data_loss.md
+
+
